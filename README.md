@@ -1,6 +1,6 @@
 # Ex01 Portfolio
-### sriram.e
-### reg no:212224220106
+### jawaharbabu.s
+### reg no:212224220041
 
 
 ## AIM
@@ -178,7 +178,7 @@ Upload to GitHub Pages for free hosting.
         
         <h2>About Me</h2> 
         <div class="info-box">
-            <p>Hi Guys!,I'm SRIRAM.E /and I am a college student from saveetha engineering college ,I'm interested about technology, coding, and innovation. This portfolio shows my academic achievements, projects, and skills.</p>
+            <p>Hi Guys!,I'm jawaharbabu /and I am a college student from saveetha engineering college ,I'm interested about technology, coding, and innovation. This portfolio shows my academic achievements, projects, and skills.</p>
         </div>
     </section>
     
@@ -186,7 +186,7 @@ Upload to GitHub Pages for free hosting.
     
     <section id="contact">
         <h2>Contact:70923 46544</h2>
-        <p>Email: sriram01102020@gmail.com</p>
+        <p>Email: jawaharbabu.com</p>
        
     </section>
     
@@ -291,11 +291,11 @@ footer {
 
 ## OUTPUT
 
-<img width="1893" height="808" alt="Screenshot 2025-08-13 093022" src="https://github.com/user-attachments/assets/c59cc5a0-d713-4517-8e59-895cca8559f5" />
-<img width="1903" height="780" alt="Screenshot 2025-08-13 093031" src="https://github.com/user-attachments/assets/f12c444d-c434-43e6-9d90-c635ef980e05" />
-<img width="1877" height="766" alt="Screenshot 2025-08-13 093040" src="https://github.com/user-attachments/assets/3831b13a-30ab-4024-9cea-c407fcbde23c" />
+<img width="1489" height="528" alt="Screenshot 2025-08-14 081015" src="https://github.com/user-attachments/assets/a7245e30-a9e2-4561-bca1-fc384e60c13f" />
 
+<img width="1250" height="445" alt="Screenshot 2025-08-14 081024" src="https://github.com/user-attachments/assets/e397c8d1-238b-45d6-b770-232930ea8979" />
 
+<img width="1117" height="553" alt="Screenshot 2025-08-14 081037" src="https://github.com/user-attachments/assets/eb58876d-b284-4510-93df-1ee3fed08309" />
 
 
 
